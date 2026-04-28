@@ -1,0 +1,5 @@
+<resources>
+    <style name="Theme.TodoList" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Tes couleurs ici -->
+    </style>
+</resources>
